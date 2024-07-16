@@ -1,7 +1,7 @@
 
 # A Responsive React website 
 
-A Resopnsive website ---Shop Admin Pannel .
+A Resopnsive website ---Zeniod agency website .
 
 <br/>
 ## API Reference
