@@ -22,7 +22,7 @@ A Resopnsive website ---Zeniod agency website .
 Clone the project
 
 ```bash
-  git clone  |https://github.com/priyankasingh2907/Shop-Admin|
+  git clone  |https://pri-zeniod.netlify.app/|
   youtube    |https://www.youtube.com/watch?v=vV7X_JtXbh|
 
 ```
