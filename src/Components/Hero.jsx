@@ -2,8 +2,26 @@ import styled from "styled-components";
 import trophy from "../assets/trophy.svg";
 import code from "../assets/code-branch.svg";
 import brain from "../assets/brain.svg";
+// import ScrollReveal from "scroll-reveal-react";
+// import { useEffect } from "react";
 
 export default function Hero() {
+  // useEffect(() => {
+  //   ScrollReveal().reveal(".hero__title", {
+  //     opacity: 0,
+  //     delay: 300,
+  //     duration: 700,
+  //     reset: false,
+  //   });
+
+  //   ScrollReveal().reveal(`#hs1,#hs2,#hs3`, {
+  //     origin: "bottom",
+  //     distance: "800px",
+  //     duration: 1000,
+  //     opacity: 0,
+  //     reset: false,
+  //   });
+  // }, []);
   return (
     <Section>
       <div className="section hero dark" id="home">
